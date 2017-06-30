@@ -8,8 +8,8 @@ li {
 	font-size: 80%;
 	/*line-height: 25px;*/
 }
-a, a:focus, a:hover {
-	color:#991A26;
+a {
+	color: #990000;
 	text-decoration: none;
 }
 blockquote p{
